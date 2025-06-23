@@ -1,0 +1,5 @@
+qiskit
+qiskit-optimization
+networkx
+pandas
+matplotlib
