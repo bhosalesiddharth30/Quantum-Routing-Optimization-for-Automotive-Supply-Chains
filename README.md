@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ```
 
 ## How to Run
-1. Open `notebooks/main.ipynb`
+1. Open `main.py`
 2. Follow the notebook instructions step-by-step
 
 ## Project Keywords
